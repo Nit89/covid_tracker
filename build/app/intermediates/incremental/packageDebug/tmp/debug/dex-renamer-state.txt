@@ -1,0 +1,4 @@
+#Fri Dec 30 01:22:52 IST 2022
+base.0=/Users/nitesh/Desktop/Flutter-Covid-19-App-main/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
